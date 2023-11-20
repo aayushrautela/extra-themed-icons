@@ -1,5 +1,9 @@
 ## List of new icons by version
 
+## v11.0
+###Lawnicons
+- Rebased to lawnicons 2.4.0
+
 ### v10.0
 #### Lawnicons
 - Actionbound
